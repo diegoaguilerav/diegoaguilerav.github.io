@@ -22,6 +22,6 @@ git commit -m 'deploy'
 #git push -f git@github.com:diegoaguilerav/diegoaguilerav.github.io.git master
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:diegoaguilerav/Talento-Code-Galeria-Flex.git master:gh-pages
+git push -f git@github.com:diegoaguilerav/practicatl.git master:gh-pages
 
 cd -
